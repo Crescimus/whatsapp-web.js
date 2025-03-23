@@ -9,6 +9,9 @@
     "test-single": "mocha",
     "shell": "node --experimental-repl-await ./shell.js",
     "generate-docs": "npx jsdoc --configure .jsdoc.json --verbose"
+   "start": "node chat.js"
+}
+
   },
   "repository": {
     "type": "git",
